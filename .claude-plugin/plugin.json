@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-linkedin-ads",
+  "displayName": "InsightfulPipe Skills for LinkedIn Ads",
+  "description": "7 free Claude skills for LinkedIn Ads: account audits, B2B lead generation, Lead Gen Form optimization and ABM pipeline reporting. Changes only after you confirm.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills/linkedin-ads",
+  "repository": "https://github.com/Insightful-Pipe/linkedin-skills",
+  "license": "MIT",
+  "keywords": [
+    "linkedin-ads",
+    "b2b-marketing",
+    "abm",
+    "lead-generation",
+    "claude-skills",
+    "marketing"
+  ]
+}
