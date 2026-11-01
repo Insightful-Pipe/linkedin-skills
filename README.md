@@ -37,7 +37,7 @@ Download a skill's ZIP from its page on insightfulpipe.com (the **Page** links b
 | [LinkedIn Ads B2B Optimizer](skills/linkedin-ads-b2b-optimizer/) | Optimizes LinkedIn Ads for B2B by finding which seniorities, job titles, company sizes and industries earn qualified leads, then fixes bids, budgets, weak ads and… | [Page](https://insightfulpipe.com/marketing-claude-skills/linkedin-ads/linkedin-ads-b2b-optimizer) |
 | [LinkedIn Ads Campaign Builder](skills/linkedin-ads-campaign-builder/) | Builds a new LinkedIn Ads campaign or three-stage funnel from a brief, with objective, targeting, suggested bid pricing, intro text and headlines, a pre-flight check… | [Page](https://insightfulpipe.com/marketing-claude-skills/linkedin-ads/linkedin-ads-campaign-builder) |
 | [LinkedIn Lead Gen Optimizer](skills/linkedin-lead-gen-optimizer/) | Reviews LinkedIn Lead Gen Forms for form design, open to completion drop-off, cost per lead by campaign and audience, and lead quality from work email share or CRM… | [Page](https://insightfulpipe.com/marketing-claude-skills/linkedin-ads/linkedin-lead-gen-optimizer) |
-| [LinkedIn Thought Leader Ads Planner](skills/linkedin-thought-leader-ads-planner/) | Plans LinkedIn Thought Leader Ads by ranking founder, employee and creator posts against each author's usual engagement rate, then drafts the bid, budget per post and a… |  |
+| [LinkedIn Thought Leader Ads Planner](skills/linkedin-thought-leader-ads-planner/) | Plans LinkedIn Thought Leader Ads by ranking founder, employee and creator posts against each author's usual engagement rate, then drafts the bid, budget per post and a… | [Page](https://insightfulpipe.com/marketing-claude-skills/linkedin-ads/linkedin-thought-leader-ads-planner) |
 
 ## Live data (optional)
 
